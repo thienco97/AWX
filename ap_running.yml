@@ -8,4 +8,4 @@
 
     - name: Display the running-config
       ansible.builtin.debug:
-        var: output.stdout
+        var: output.stdoutcac
